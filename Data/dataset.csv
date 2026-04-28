@@ -1,0 +1,16 @@
+person_id,before_image,after_image,label
+JohnDoe3,JohnDoe3Before.jpg,JohnDoe3After.jpg,1
+JaneDoe4,JaneDoe4Before.jpg,JaneDoe4After.jpg,1
+JaneDoe2,JaneDoe2Before.jpg,JaneDoe2After.jpg,1
+JaneDoe3,JaneDoe3Before.jpg,JaneDoe3After.jpg,1
+JaneDoe1,JaneDoe1Before.jpg,JaneDoe1After.jpg,1
+JohnDoe1,JohnDoe1Before.jpg,JohnDoe1After.jpg,1
+JohnDoe4,JohnDoe4Before.jpg,JohnDoe4After.jpg,1
+Streisand_Barbara,Streisand_Barbara_1964_early.jpg,Streisand_Barbara_2016_older.jpg,0
+Poitier_Sidney,Poitier_Sidney_1965_early.jpg,Poitier_Sidney_1988_older.jpg,0
+Streep_Meryl,Streep_Meryl_1996_early.jpg,Streep_Meryl_2012_older.jpg,0
+Russo_Renee,Russo_Renee_1980_early.jpg,Russo_Renee_2019_older.jpg,0
+Sarandon_Susan,Sarandon_Susan_1984_early.jpg,Sarandon_Susan_2015_older.jpg,0
+Nielsen_Leslie,Nielsen_Leslie_1955_early.jpg,Nielsen_Leslie_1990_older.jpg,0
+Hanks_Tom,Hanks_Tom_1994_early.jpg,gettyimages-2217999323-2048x2048.jpg,0
+Pitt_Brad,Pitt_Brad_2000_early.jpg,gettyimages-2169735510-2048x2048.jpg,0
